@@ -1,0 +1,13 @@
+Customer_name  Booked_tickets  Total_payment  Booking Date
+ahmed  fire,add  $80.0  2024-01-27
+nunu  fire,add,high,zz,xx  $200.0  2024-01-27
+mike  fire,high  $90.0  2024-01-27
+ahmed  fire,add  $80.0  2024-01-27
+medo  high,mm,zz  $105.0  2024-01-27
+nunu  xx,high  $0.0  2024-01-28
+medo  fire(4),add(5),high(2)  $430  2024-01-29 (approved)
+medo  fire  $100.0  2024-01-29
+ahmed  xx(2),fire(5),add(5),zz(5),high(5)  $400.0  2024-01-30
+ahmed  fire(5),zz(5),add(5),high(5),xx(5)  $600.0  2024-01-31
+ahmed  fire(2),xx(5),high(4),zz(6),add(3)  $795.0  2024-02-01
+medo  high(2),zz(3),fire(1)  $265.0  2024-02-01

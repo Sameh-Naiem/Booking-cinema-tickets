@@ -1,0 +1,7 @@
+fire  50
+add  30
+high  40
+zz  45
+xx  35
+mm  20
+xz  300

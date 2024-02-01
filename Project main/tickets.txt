@@ -1,0 +1,6 @@
+high 98
+fire 99
+add 100
+zz 97
+xx 100
+mm 100

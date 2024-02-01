@@ -1,0 +1,7 @@
+firstname lastname phonenum email password
+awte  yuiyu  1234555  boy@gmail.com  321548888884
+medo  ahmed  5643844448791  thefirefighter@gmail.com  12345678
+mike  ahmed  13254768  skt@gmail.com  12345678
+ahmed  mohamed  1234849  gg@gmail.com  12345678
+nunu  wilamp  68468765  def@gmail.com  12345678
+hi  like  456789  ahmed@g.ogf  123456789
